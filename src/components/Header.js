@@ -19,7 +19,9 @@ export default class Header extends Component {
               <li><a className="smoothscroll" href="#contact">Contact</a></li>
             </ul>
           </nav>
-
+          <div class="stars"></div>
+          <div class="twinkling"></div>
+          <div class="clouds"></div>
           <div className="row banner">
             <div className="banner-text">
               <Typing>
